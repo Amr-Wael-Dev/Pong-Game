@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(221,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(275,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(276,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(443,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(657,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\Pong Game\Pong Game\main.cpp(668,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mainMenu.cpp
+  modeMenu.cpp
+  pauseMenu.cpp
+  Generating Code...
+  Pong Game.vcxproj -> D:\Visual Studio Projects\Pong Game\Debug\Pong Game.exe
