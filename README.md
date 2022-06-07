@@ -10,7 +10,9 @@ A classic game that consists of two players and a ball, the ball can bounce off 
 4. (Debug mode) sfml-graphics-d.lib;sfml-system-d.lib;sfml-audio-d.lib;sfml-network-d.lib;sfml-window-d.lib; (in the Linker tab > Input > Additional Dependencies)
 5. Simply Run The Project
 
-You should be presented with a window that looks like this ![Main Menu]()
+### You should be presented with a window that looks like this
+
+![Main Menu](https://github.com/Amr-Wael-Dev/Pong-Game/blob/main/Resources/1.jpg)
 ---
 ### Controls
 #### Menus
