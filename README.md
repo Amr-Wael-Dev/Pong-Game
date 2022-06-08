@@ -12,7 +12,7 @@ The game contains many game modes such as 2 players, classic, inverted, mouse, a
 
 ## Project Documentation
 ### How To Run:
-#### This project depends on the sfml library, so make sure to update in the project's properties page:
+#### This project depends on the SFML library, so make sure to update in the project's properties page:
 1. (All configurations) path\to\your\sfml\folder\include (in the C/C++ tab > General > Additional Include Directories)
 2. (All configurations) path\to\your\sfml\folder\lib (in the Linker tab > General > Additional Library Directories)
 3. (Release mode) sfml-graphics.lib;sfml-system.lib;sfml-audio.lib;sfml-network.lib;sfml-window.lib; (in the Linker tab > Input > Additional Dependencies)
