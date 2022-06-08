@@ -1,6 +1,15 @@
 # Pong Game
-A classic game that consists of two players and a ball, the ball can bounce off the ceiling and the floor while the players keep trying to get it to pass the other player's side. The first player to reach a score of 10 wins. The game contains many game modes such as 2 players, classic, inverted, mouse, and warp. This game is written in C++ using the SFML library.
+
+![Gameplay](https://github.com/Amr-Wael-Dev/Pong-Game/blob/main/Resources/4.jpg)
+
+A classic game that consists of two players and a ball, the ball can bounce off the ceiling and the floor while the players keep trying to get it to pass the other player's side.
+
+The first player to reach a score of 10 wins.
+
+The game contains many game modes such as 2 players, classic, inverted, mouse, and warp. This game is written in C++ using the SFML library.
+
 ---
+
 ## Project Documentation
 ### How To Run:
 #### This project depends on the sfml library, so make sure to update in the project's properties page:
@@ -13,7 +22,9 @@ A classic game that consists of two players and a ball, the ball can bounce off 
 ### You should be presented with a window that looks like this
 
 ![Main Menu](https://github.com/Amr-Wael-Dev/Pong-Game/blob/main/Resources/1.jpg)
+
 ---
+
 ### Controls
 #### Menus
 - :arrow_up:: Previous Menu Item
@@ -42,6 +53,10 @@ Current Available Modes:
 - Inverted
 - Mouse
 - Warp
+
+
+![Mode Menu](https://github.com/Amr-Wael-Dev/Pong-Game/blob/main/Resources/3.jpg)
+
 ---
 ## I'd really like to get feedback on this project (keep in mind that this was my first interaction with code in my life 😅)
 ---
